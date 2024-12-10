@@ -14,13 +14,13 @@ This NuGet package plugin is a simple and efficient solution for generating GUID
 Install the package via NuGet Package Manager:
 
 ```bash
-Install-Package GuidGeneratorPlugin
+Install-Package Gen.GUID.By.Length --version 1.0.0
 ```
 
 Or via the .NET CLI:
 
 ```bash
-dotnet add package GuidGeneratorPlugin
+dotnet add package Gen.GUID.By.Length --version 1.0.0
 ```
 
 ## Usage

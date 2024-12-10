@@ -4,6 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <PackageId>Gen.GUID.By.Length</PackageId>
+	  <Version>1.0.0</Version>
+	  <Auther>Delushaan Mohan</Auther>
+	  <Product>GUID Generator by Length</Product>
+	  <Description>A plugin to generate GUIDs based on custom length.</Description>
+	  <PackageTags>GUID Generator, NuGet, Utility</PackageTags>
+	  <Company>Delushaan</Company>
+	  <RepositoryUrl>https://github.com/DelushaanM/GenGUIDByLength</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
